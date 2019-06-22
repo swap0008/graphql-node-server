@@ -4,6 +4,6 @@ To start the project:
 
 ```
 > git clone this.directory
-> cd this.directoru
+> cd this.directory
 > node server
 ```
